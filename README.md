@@ -1,5 +1,5 @@
 # prophet-rapidburster
-Running Prophet code on rapidburster
+Running Prophet code on rapidburster X-ray source
 Install via https://facebook.github.io/prophet/docs/installation.html
 
 Best to install with conda, not pip
